@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "261043696662",
+    "firebase_url": "https://gqa-project.firebaseio.com",
+    "project_id": "gqa-project",
+    "storage_bucket": "gqa-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261043696662:android:9ea14649295dcf55",
+        "android_client_info": {
+          "package_name": "com.inovgen.gqa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261043696662-h55b4vmojdr934uthvse72t8665qmmrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inovgen.gqa",
+            "certificate_hash": "5def495870cfabd6079a995aedc7ccd1cf4f0ae1"
+          }
+        },
+        {
+          "client_id": "261043696662-q7feobag9j956g7erkhv7tbkojliksp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3OgmsMdQ0HIh0O-AK8q0S5bcmoUMoF3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261043696662-q7feobag9j956g7erkhv7tbkojliksp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
